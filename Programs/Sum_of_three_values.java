@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Sum_of_three_values {
     public static void main(String[]args){
         Scanner input = new Scanner(System.in);
-        System.out.println("The sum of three values: ");
+        System.out.println("The sum of three values");
         System.out.print("Enter first value: ");
         float a = input.nextFloat();
         System.out.print("Enter second value: ");
